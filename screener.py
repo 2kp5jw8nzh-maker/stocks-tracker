@@ -54,7 +54,8 @@ import math
 import statistics
 from datetime import date, timedelta
 
-from fmp_common import api_get, get_price_history, get_current_price, get_recent_headlines
+from fmp_common import api_get, get_price_history, get_current_price
+from finnhub_common import get_finnhub_headlines
 
 # ---- Tunable parameters -----------------------------------------------
 LOOKAHEAD_DAYS = 21          # only surface earnings within this many days
@@ -275,7 +276,7 @@ def log_and_digest(top_picks):
                 "outcome_checked_date": "",
             })
 
-            headlines = get_recent_headlines(sym, limit=2)
+            headlines = get_finnhub_headlines(sym, limit=2)
             digest_lines.append(
                 f"\n{sym}  (score {pick['score']}, earnings {pick['earnings_date']}, "
                 f"price {'$' + str(price) if price else 'n/a'})"

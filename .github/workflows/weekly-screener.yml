@@ -21,6 +21,7 @@ jobs:
       - name: Run screener (this week's picks + logs to history.csv)
         env:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: python3 screener.py
 
       - name: Check outcomes of past picks (builds the real track record)

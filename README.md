@@ -33,7 +33,8 @@ For each stock reporting earnings in the next 21 days (configurable):
    (you already have this)
 2. Locally:
    ```bash
-   export FMP_API_KEY="your_key_here"
+   export FMP_API_KEY="your_fmp_key_here"
+   export FINNHUB_API_KEY="your_finnhub_key_here"   # optional but recommended -- enables headlines
    python3 screener.py
    python3 track_outcomes.py
    ```
@@ -60,6 +61,8 @@ followed by `git branch -M main` and `git push -u origin main`.)
 **2. Add your secrets** (repo → Settings → Secrets and variables → Actions
 → "New repository secret"):
 - `FMP_API_KEY` — your FMP key
+- `FINNHUB_API_KEY` — free key from https://finnhub.io/register (used for
+  headlines — FMP's news endpoint turned out to require a paid plan)
 - `NTFY_TOPIC` — optional, a random hard-to-guess string (e.g.
   `elvin-catalyst-8f2x`) — this becomes your private notification channel
 
@@ -77,8 +80,6 @@ picks from ~a month ago, commits the updated `history.csv` back to the
 repo (so the track record persists and grows), and pushes you a
 notification. You never have to open the code again unless you want to
 tune something.
-
-## What's inside
 
 ## What's inside
 

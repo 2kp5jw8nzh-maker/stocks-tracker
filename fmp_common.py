@@ -58,23 +58,6 @@ def get_current_price(symbol):
     return data[0].get("price")
 
 
-def get_recent_headlines(symbol, limit=2):
-    """
-    Best-effort recent headlines for a symbol. FMP's exact free-tier status
-    for news endpoints is unconfirmed (unlike quote/profile/historical-price,
-    which are documented free) -- so this fails SILENTLY and returns an
-    empty list on any error, rather than treating a missing endpoint as a
-    breaking failure. Headlines are a nice-to-have context add, never
-    something the rest of the pipeline depends on.
-    """
-    try:
-        data = api_get("news/stock-latest", {"symbols": symbol, "limit": limit})
-        if not data or not isinstance(data, list):
-            return []
-        return [
-            {"title": item.get("title", "").strip(), "url": item.get("url", "")}
-            for item in data[:limit]
-            if item.get("title")
-        ]
-    except Exception:
-        return []
+# Note: FMP's news/stock-latest endpoint returned HTTP 402 (paywalled) in a
+# live test, so headlines are now sourced from Finnhub instead -- see
+# finnhub_common.py. Left out of this file to avoid a second dead-end helper.
