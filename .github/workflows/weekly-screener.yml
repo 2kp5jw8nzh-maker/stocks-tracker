@@ -1,0 +1,60 @@
+name: Weekly Catalyst Screener
+
+on:
+  schedule:
+    # Every Sunday at 22:00 UTC (adjust to your timezone) — ahead of the trading week
+    - cron: "0 22 * * 0"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+jobs:
+  run-screener:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit history.csv back to the repo
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run screener (this week's picks + logs to history.csv)
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: python3 screener.py
+
+      - name: Check outcomes of past picks (builds the real track record)
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: python3 track_outcomes.py
+
+      # history.csv is CUMULATIVE and must persist between runs, or the
+      # track record resets every week and track_outcomes.py never has
+      # anything to check. Commit it (and the other generated files) back
+      # to the repo after every run.
+      - name: Commit updated tracking files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.csv results.csv digest.txt
+          git diff --staged --quiet || git commit -m "Weekly screener run $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Push digest via ntfy (optional)
+        if: env.NTFY_TOPIC != ''
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          curl -s -T digest.txt \
+            -H "Title: Weekly Screener Digest" \
+            -H "Priority: default" \
+            "https://ntfy.sh/$NTFY_TOPIC"
+
+      - name: Upload results as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: screener-results-${{ github.run_number }}
+          path: |
+            results.csv
+            history.csv
+            digest.txt

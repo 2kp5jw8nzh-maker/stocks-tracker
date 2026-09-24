@@ -1,0 +1,22 @@
+Weekly screener run -- 2026-09-24
+========================================
+
+COST  (score 59.0, earnings 2026-09-24, price $904.7)
+  vol 19.8% | est trend 5.1%
+  (no headlines available -- check the ticker manually)
+
+CCL  (score 58.5, earnings 2026-09-29, price $21.8)
+  vol 34.3% | est trend -1.1%
+  (no headlines available -- check the ticker manually)
+
+TSM  (score 45.5, earnings 2026-10-15, price $446.57)
+  vol 42.6% | est trend 24.8%
+  (no headlines available -- check the ticker manually)
+
+NKE  (score 42.8, earnings 2026-10-01, price $36.05)
+  vol 31.4% | est trend -29.4%
+  (no headlines available -- check the ticker manually)
+
+DAL  (score 36.5, earnings 2026-10-09, price $81.75)
+  vol 30.9% | est trend -1.4%
+  (no headlines available -- check the ticker manually)
