@@ -1,27 +1,27 @@
-Weekly screener run -- 2026-09-24
+Weekly screener run -- 2026-09-27
 ========================================
 
-COST  (score 59.0, earnings 2026-09-24, price $904.7)
-  vol 19.8% | est trend 5.1%
-  - Retail shows strength in Chicago suburbs as DLC sells Mount Prospect shopping center for $95M
-  - Couple In Their 40s Suddenly Gets Nearly $400K — But He Says It Still Feels Like ‘The Same Guy Stressing Over Costco Gas Prices’
+NKE  (score 63.6, earnings 2026-10-01, price $35.75)
+  vol 30.0% | est trend 12.4%
+  - Nike Is Down 77% From Its Peak. Should You Buy Before It Reports Earnings on Oct. 1?
+  - Jobs, Inflation, Nike, Carmax, Micron, and More to Watch This Week
 
-CCL  (score 58.5, earnings 2026-09-29, price $21.8)
-  vol 34.3% | est trend -1.1%
-  - Is Carnival Stock Cheap, Or Is The Cash Already Spoken For?
-  - Carnival faces fuel, pricing headwinds ahead of third-quarter results
+CCL  (score 63.6, earnings 2026-09-29, price $22.25)
+  vol 33.6% | est trend -1.1%
+  - Wall Street Brunch: AI Safety Crunch Time
+  - Bank of America cuts Carnival stock target as key cost surges
 
-TSM  (score 45.5, earnings 2026-10-15, price $446.57)
-  vol 42.6% | est trend 24.8%
-  - Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q2 2026 Update
-  - Why This Top Global Dividend Fund Likes Samsung and Citigroup
+TSM  (score 49.7, earnings 2026-10-15, price $450.61)
+  vol 40.8% | est trend 24.9%
+  - TSMC: An AI Technology Leader Trading At Just 0.7x PEG
+  - What Will Micron's Gross Margin Guide Be?
 
-NKE  (score 42.8, earnings 2026-10-01, price $36.05)
-  vol 31.4% | est trend -29.4%
-  - Retail shows strength in Chicago suburbs as DLC sells Mount Prospect shopping center for $95M
-  - Wednesday's session: top gainers and losers in the dow jones index
-
-DAL  (score 36.5, earnings 2026-10-09, price $81.75)
+DAL  (score 42.2, earnings 2026-10-09, price $84.94)
   vol 30.9% | est trend -1.4%
-  - Redburn Says Its Southwest Sell Thesis Has “Played Out.” So Why Does It Still Prefer Delta and United?
-  - Iran “Offered” to Reopen the Strait of Hormuz. These Stocks Could Be the Biggest Winners
+  - $1000 Invested In Delta Air Lines 15 Years Ago Would Be Worth This Much Today
+  - Delta Air Lines Stock Rises Friday: What's Going On?
+
+PEP  (score 39.5, earnings 2026-10-08, price $128.63)
+  vol 22.1% | est trend 4.1%
+  - PepsiCo (PEP) Price Rises For Chips And Soda Put 2027 In Focus
+  - PepsiCo Is Raising Some Chip Prices It Cut in February. Here’s What Its October 8 Earnings Need to Show
