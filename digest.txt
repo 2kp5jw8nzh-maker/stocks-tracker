@@ -1,27 +1,27 @@
-Weekly screener run -- 2026-09-27
+Weekly screener run -- 2026-10-04
 ========================================
 
-NKE  (score 63.6, earnings 2026-10-01, price $35.75)
-  vol 30.0% | est trend 12.4%
-  - Nike Is Down 77% From Its Peak. Should You Buy Before It Reports Earnings on Oct. 1?
-  - Jobs, Inflation, Nike, Carmax, Micron, and More to Watch This Week
+INTC  (score 65.7, earnings 2026-10-22, price $119.33)
+  vol 73.2% | est trend 47.0%
+  - Gary Shapiro: why trade shows matter and how to get them right
+  - President Trump On Sunday, Announced Formation Of Super Intelligence Force To Coordinate Federal Government Super Intelligence Efforts, Led By Jay Clayton, Andrew Ferguson, Emil Michael, Scott Kupor
 
-CCL  (score 63.6, earnings 2026-09-29, price $22.25)
-  vol 33.6% | est trend -1.1%
-  - Wall Street Brunch: AI Safety Crunch Time
-  - Bank of America cuts Carnival stock target as key cost surges
+NOK  (score 65.7, earnings 2026-10-22, price $10.6)
+  vol 63.6% | est trend 27.8%
+  - Better Telecom Stock: Nokia vs. Verizon
+  - Nokia (NOK) Has Doubled in a Year. Is the Turnaround Real or Just a Rerating?
 
-TSM  (score 49.7, earnings 2026-10-15, price $450.61)
-  vol 40.8% | est trend 24.9%
-  - TSMC: An AI Technology Leader Trading At Just 0.7x PEG
-  - What Will Micron's Gross Margin Guide Be?
+TSM  (score 61.2, earnings 2026-10-15, price $472.78)
+  vol 38.6% | est trend 23.7%
+  - TSMC Q3 Earnings Preview: I'm Loading Up Before The Print, And You Should Too
+  - 3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030
 
-DAL  (score 42.2, earnings 2026-10-09, price $84.94)
-  vol 30.9% | est trend -1.4%
-  - $1000 Invested In Delta Air Lines 15 Years Ago Would Be Worth This Much Today
-  - Delta Air Lines Stock Rises Friday: What's Going On?
+DAL  (score 54.0, earnings 2026-10-09, price $84.09)
+  vol 29.5% | est trend -2.1%
+  - Delta, Pepsi, Levi’s, Fed Minutes, and More to Watch This Week
+  - VFLO And CGDV: The Perfect Pairing For AI Growth
 
-PEP  (score 39.5, earnings 2026-10-08, price $128.63)
-  vol 22.1% | est trend 4.1%
-  - PepsiCo (PEP) Price Rises For Chips And Soda Put 2027 In Focus
-  - PepsiCo Is Raising Some Chip Prices It Cut in February. Here’s What Its October 8 Earnings Need to Show
+C  (score 52.5, earnings 2026-10-13, price $128.5)
+  vol 26.9% | est trend 14.4%
+  - Citi explains why home improvement stocks are lagging in 2026
+  - Can Coinbase (COIN) Turn Citi’s Stablecoin Partnership Into a Durable Institutional Advantage?
