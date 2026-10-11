@@ -1,27 +1,27 @@
-Weekly screener run -- 2026-10-04
+Weekly screener run -- 2026-10-11
 ========================================
 
-INTC  (score 65.7, earnings 2026-10-22, price $119.33)
-  vol 73.2% | est trend 47.0%
-  - Gary Shapiro: why trade shows matter and how to get them right
-  - President Trump On Sunday, Announced Formation Of Super Intelligence Force To Coordinate Federal Government Super Intelligence Efforts, Led By Jay Clayton, Andrew Ferguson, Emil Michael, Scott Kupor
+NOK  (score 79.0, earnings 2026-10-22, price $10.36)
+  vol 64.6% | est trend 29.3%
+  - European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Flat for Week
+  - Ciena's Openreach Deal: Can 1.6Tb/s Technology Drive Its Growth?
 
-NOK  (score 65.7, earnings 2026-10-22, price $10.6)
-  vol 63.6% | est trend 27.8%
-  - Better Telecom Stock: Nokia vs. Verizon
-  - Nokia (NOK) Has Doubled in a Year. Is the Turnaround Real or Just a Rerating?
+TSLA  (score 71.8, earnings 2026-10-21, price $382.7)
+  vol 49.0% | est trend 45.0%
+  - Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings
+  - Elon Musk just handed Intel a new problem Wall Street can't ignore
 
-TSM  (score 61.2, earnings 2026-10-15, price $472.78)
-  vol 38.6% | est trend 23.7%
-  - TSMC Q3 Earnings Preview: I'm Loading Up Before The Print, And You Should Too
-  - 3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030
+TSM  (score 70.3, earnings 2026-10-15, price $453.31)
+  vol 33.5% | est trend 22.1%
+  - Wall Street Brunch: Start Your Earnings Engines
+  - AMD’s Biggest Problem Is No Longer Demand. Lisa Su Is in Asia to Fix the Real One
 
-DAL  (score 54.0, earnings 2026-10-09, price $84.09)
-  vol 29.5% | est trend -2.1%
-  - Delta, Pepsi, Levi’s, Fed Minutes, and More to Watch This Week
-  - VFLO And CGDV: The Perfect Pairing For AI Growth
+GS  (score 68.3, earnings 2026-10-13, price $895.32)
+  vol 33.8% | est trend 7.8%
+  - Stock Futures Kick Off New Week Ahead of Bank Reports
+  - Dow Jones Futures: Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom
 
-C  (score 52.5, earnings 2026-10-13, price $128.5)
-  vol 26.9% | est trend 14.4%
-  - Citi explains why home improvement stocks are lagging in 2026
-  - Can Coinbase (COIN) Turn Citi’s Stablecoin Partnership Into a Durable Institutional Advantage?
+INTC  (score 65.7, earnings 2026-10-29, price $104.7)
+  vol 70.3% | est trend 43.6%
+  - Elon Musk just handed Intel a new problem Wall Street can't ignore
+  - Intel (INTC) Reaches 500 Million AI Tool Downloads As Edge Integrations Expand
