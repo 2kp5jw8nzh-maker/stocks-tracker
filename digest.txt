@@ -1,27 +1,27 @@
-Weekly screener run -- 2026-10-19
+Weekly screener run -- 2026-10-26
 ========================================
 
-NOK  (score 94.3, earnings 2026-10-22, price $9.14)
-  vol 62.4% | est trend 29.3%
-  - Deutsche Bank sees AI monetization fears creating buying chance in EU chip stocks
-  - 11% Undervalued Motorola Solutions (MSI) Following Nokia Value Comparison?
-
-TSLA  (score 86.1, earnings 2026-10-21, price $354.72)
-  vol 47.9% | est trend 45.8%
-  - Tesla’s Flying Roadster and the SpaceX Halo
-  - Elon Musk’s ex says she turned down a $40M NDA — then her child support was cut to about $5M total. Was it all worth it?
-
-INTC  (score 81.0, earnings 2026-10-29, price $89.85)
+INTC  (score 94.3, earnings 2026-10-29, price $86.96)
   vol 68.3% | est trend 39.2%
-  - Intel (INTC) Lands A Major Customer For Its 14A Foundry Process
-  - Jim Cramer On Micron (MU) & Intel (INTC): Nothing Is Working Despite Good Businesses & Strong Quarters
+  - Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy
+  - Intel’s Make-or-Break Margin Test Is Arriving on Oct. 29
 
-RBLX  (score 81.0, earnings 2026-10-29, price $49.54)
-  vol 83.1% | est trend 196.3%
-  - Roblox engagement rebounds slightly despite annual declines
-  - Can Gaming Pipeline and Activision Add Momentum to Microsoft Stock?
+RBLX  (score 94.3, earnings 2026-10-29, price $52.88)
+  vol 81.9% | est trend 196.3%
+  - Roblox Users Hold Up, Spending Likely Lower-Than-Expected, Wedbush Securities Says
+  - What's Wrong With Roblox Stock?
 
-META  (score 78.5, earnings 2026-10-21, price $709.325)
-  vol 44.7% | est trend 10.1%
-  - Meta Earnings Puts Adobe Stock And AI Ad Software Names In Focus
-  - Oil Futures Likely to React to Ukraine’s Attack on Russian Oil, Lifting of Diesel Sanctions
+SOFI  (score 90.9, earnings 2026-10-27, price $14.615)
+  vol 51.4% | est trend 53.4%
+  - What Will 1,000 Chainlink (LINK) Be Worth by 2030?
+  - XRP ETFs Took In Just $4.3 Million in a Week. Could WisdomTree’s Fund Change That?
+
+PLTR  (score 86.7, earnings 2026-11-02, price $196.75)
+  vol 69.7% | est trend 114.6%
+  - I Said Palantir Stock Would Top $220 This Year. Here's What It Has to Prove on Nov. 2.
+  - Here's What a $10,000 Investment in Palantir Could Be Worth in 10 Years
+
+AMD  (score 84.8, earnings 2026-11-03, price $516.79)
+  vol 63.4% | est trend 39.4%
+  - Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD’s New AI Blueprint Has Everyone Signing On
+  - Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030
