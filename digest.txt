@@ -1,27 +1,27 @@
-Weekly screener run -- 2026-10-26
+Weekly screener run -- 2026-11-02
 ========================================
 
-INTC  (score 94.3, earnings 2026-10-29, price $86.96)
-  vol 68.3% | est trend 39.2%
-  - Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy
-  - Intel’s Make-or-Break Margin Test Is Arriving on Oct. 29
+PLTR  (score 100.0, earnings 2026-11-02, price $184.11)
+  vol 68.6% | est trend 114.6%
+  - Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks
+  - Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week
 
-RBLX  (score 94.3, earnings 2026-10-29, price $52.88)
-  vol 81.9% | est trend 196.3%
-  - Roblox Users Hold Up, Spending Likely Lower-Than-Expected, Wedbush Securities Says
-  - What's Wrong With Roblox Stock?
+AMD  (score 98.1, earnings 2026-11-03, price $504.8)
+  vol 65.6% | est trend 39.4%
+  - Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks
+  - Missed Advanced Micro Devices' 126% Run? Here Is What Holders Saw
 
-SOFI  (score 90.9, earnings 2026-10-27, price $14.615)
-  vol 51.4% | est trend 53.4%
-  - What Will 1,000 Chainlink (LINK) Be Worth by 2030?
-  - XRP ETFs Took In Just $4.3 Million in a Week. Could WisdomTree’s Fund Change That?
+SHOP  (score 96.1, earnings 2026-11-03, price $157.49)
+  vol 57.6% | est trend 21.3%
+  - Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks
+  - What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More
 
-PLTR  (score 86.7, earnings 2026-11-02, price $196.75)
-  vol 69.7% | est trend 114.6%
-  - I Said Palantir Stock Would Top $220 This Year. Here's What It Has to Prove on Nov. 2.
-  - Here's What a $10,000 Investment in Palantir Could Be Worth in 10 Years
+SNAP  (score 94.2, earnings 2026-11-04, price $5.34)
+  vol 62.1% | est trend 16.1%
+  - What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More
+  - Reddit Plunges 25% as Search Traffic Slump and Soft Outlook Overshadow Earnings Beat; Snap Falls 5%, Pinterest Drops 4%, Meta Dips
 
-AMD  (score 84.8, earnings 2026-11-03, price $516.79)
-  vol 63.4% | est trend 39.4%
-  - Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD’s New AI Blueprint Has Everyone Signing On
-  - Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030
+MRNA  (score 92.4, earnings 2026-11-06, price $221.72)
+  vol 217.9% | est trend 890.4%
+  - Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week
+  - Merck stock rises as its cancer strategy gets personal
