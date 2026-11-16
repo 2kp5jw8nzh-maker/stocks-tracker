@@ -1,27 +1,27 @@
-Weekly screener run -- 2026-11-09
+Weekly screener run -- 2026-11-16
 ========================================
 
-BIDU  (score 69.2, earnings 2026-11-16, price $81.87)
-  vol 39.0% | est trend 33.4%
-  - China flags weak domestic demand as policymakers prepare 2027 growth measures
-  - Baidu Faces Major Lawsuit Over AI Growth Claims
+NVDA  (score 82.8, earnings 2026-11-17, price $162.85)
+  vol 41.6% | est trend 37.7%
+  - Consumer Defensive Stocks Extend Winning Streak To 6 Weeks As SPY, QQQ Rebound: TTD, CHTR, TSLA Lead Gains
+  - Dow Jones Futures Rise As Jensen Huang Mulls Nvidia Return
 
-CSCO  (score 68.3, earnings 2026-11-12, price $93.85)
-  vol 37.0% | est trend 6.4%
-  - In March 2000, Cisco Briefly Became The World’s Most Valuable Company As Its Stock Closed At $80.06. Buyers That Day Waited More Than 25 Years For It To Close Higher. Here’s What AI Investors Need To Know
-  - Inflation Data, Constellation Energy, Skydance, Applied Materials, and More to Watch This Week
+BIDU  (score 79.6, earnings 2026-11-16, price $78.14)
+  vol 39.3% | est trend 13.7%
+  - How Investors May Respond To Baidu Stock Earnings Estimate Cuts
+  - Baidu Stocks Fall 3.41% as Remote AI Chip Curbs Threaten Cloud Plans
 
-NVDA  (score 67.9, earnings 2026-11-17, price $186.64)
-  vol 39.8% | est trend 29.6%
-  - Procter & Gamble's Dividend Has Survived 26 Recessions. Here's What $10,000 Now Earns in Yearly Dividend Income.
-  - Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case
+TGT  (score 67.2, earnings 2026-11-18, price $161.45)
+  vol 31.6% | est trend 9.4%
+  - Dow Jones Futures: Techs Rise As Jensen Huang Mulls Nvidia Return
+  - Dow Jones Futures Rise; How Will Nvidia React As Jensen Huang Mulls Return?
 
-TGT  (score 52.8, earnings 2026-11-18, price $158.36)
-  vol 30.2% | est trend 9.5%
-  - What Zevia PBC (ZVIA) Said on Its Q3 Earnings Call
-  - By The Way: Headlines You May Have Missed
+DIS  (score 64.5, earnings 2026-11-17, price $118.97)
+  vol 23.0% | est trend 14.5%
+  - Disney’s New CEO Josh D’Amaro Is Reportedly Planning Thousands of Job Cuts Ahead of Nov. 17 Earnings. Here’s What It Means for a 72-Year-Old Widow With $150,000 of Disney
+  - A $7.5 Billion Fund Bought These 3 Stocks
 
-DIS  (score 52.2, earnings 2026-11-17, price $116.75)
-  vol 24.2% | est trend 14.5%
-  - Comcast Yields 5.6% and Trades at Just 8 Times Earnings. Is It a Trap?
-  - What Just Happened To Liberty Media Stock?
+BILI  (score 64.1, earnings 2026-11-24, price $13.25)
+  vol 39.2% | est trend 13.4%
+  - Bilibili (NasdaqGS:BILI) Stock Sees Modest Fair Value Cut After Mixed Analyst Commentary
+  - Beasley Broadcast Group (BBGI) Reports Q3 Loss, Beats Revenue Estimates
